@@ -1,0 +1,36 @@
+_repo: Toronto-of-Old_35225
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35225-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scadding, Henry
+    birthdate: 1813
+    deathdate: 1901
+    gutenberg_agent_id: '37540'
+    url: http://www.gutenberg.org/2009/agents/37540
+description: In 1873, Henry Scadding, former rector of Toronto's Church of the Holy
+  Trinity, wrote the definitive history of early Toronto. His detailed portrait of
+  the streets, customs and prominent citizens is a goldmine of sights and insights
+  into a Toronto long-since disappeared. Toronto of Old was first reprinted in 1966
+  and has been out of print since 1973. The later version, edited by Frederick H.
+  Armstrong is shorter than the original, with Scadding's references to outside cities
+  and characters shortened or omitted to give the book a sharper focus on Toronto.
+  This second edition is an updated and.
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35225'
+  lccn: 02012850
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Toronto (Ont.) -- Description and travel'
+- !lcsh 'Toronto (Ont.) -- History'
+title: "Toronto of Old\r\nCollections and recollections illustrative of the early\
+  \ settlement and social life of the capital of Ontario"
+url: http://www.gutenberg.org/ebooks/35225
